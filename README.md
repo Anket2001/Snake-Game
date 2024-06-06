@@ -1,3 +1,6 @@
+# Snake Game:-
+this is a snake game web application build using html, css and javascript.
+
 1-> Project Development: 
           Implemented a classic Snake game using HTML, CSS, and JavaScript, demonstrating proficiency in front-end web development technologies. Leveraged HTML for structuring the game layout, CSS for styling elements and enhancing user experience, and JavaScript for game logic and interactivity.
           
